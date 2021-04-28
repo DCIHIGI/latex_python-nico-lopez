@@ -1,0 +1,23 @@
+
+\documentclass[12pt,letterpaper]{article}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\begin{document}
+	
+	\title{INICIANDO EN LATEX}
+	\author{Eduardo Nicolas Lopez Ramirez}
+	\date{abril 2021}
+	
+\maketitle
+\tableofcontents
+		
+	\section{F�sica Cu�ntica}
+	\subsection{�Qu� es la f�sica cu�ntica?}
+	\subsubsection{Conozcamos como influye en nuestra vida diaria}
+	La f�sica cu�ntica ha sido un tema de debate en los �ltimos a�os, y aqu� te demostraremos por qu�.
+	
+\end{document}
